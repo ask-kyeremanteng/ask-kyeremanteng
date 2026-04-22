@@ -16,7 +16,7 @@
 
 ## 👤 About Me
 
-I'm **Kwadwo Kyeremanteng** — a software developer in training and the founder of **Sakent**, a growing media brand covering African politics, current affairs, and global news.
+I'm **Isaac Kwadwo Kyeremanteng** — a software developer in training and the founder of **Sakent**, a growing media brand covering African politics, current affairs, and global news.
 
 By day I'm writing C++ and learning systems programming. By night I'm running YouTube channels, managing a media team, and building products for the Ghanaian market. I believe Africa's next generation of builders need to own both the tech *and* the narrative.
 
